@@ -1,0 +1,65 @@
+Create a complete 2-page responsive website in a single HTML file for a creative brand called "Mithraa Studio - Turning Memories Into Timeless Art".
+
+Website purpose:
+This is a premium art, gifting, and recognition brand website for personal, family, achievement, and corporate customers.
+
+Design style:
+- Elegant, modern, premium
+- White background with black and gold accents
+- Clean typography
+- Soft shadows
+- Rounded cards
+- Beautiful spacing
+- Mobile-friendly and responsive
+- Use simple icons or emoji where needed
+- Make it feel professional and emotional
+
+Pages to create:
+1. Home page
+2. Services / Revenue page
+
+Page 1: Home
+Include:
+- Hero section with brand name and tagline
+- Short "Who We Are" section
+- Vision section
+- Mission section
+- Target audience section
+- Pain points section
+- Main services preview with 6 icon cards:
+  - Portrait Artwork
+  - Personalized Gifting
+  - Achievement Recognition
+  - Corporate Solutions
+  - Premium Framing
+  - Memory Preservation
+- Strong call-to-action buttons like "Explore Services" and "Contact Us"
+
+Page 2: Services
+Include:
+- Detailed service sections
+- Revenue model / pricing cards:
+  - Free Consultation
+  - Personal Package
+  - Premium Package
+  - Corporate Package
+- Events we cover:
+  - Family events
+  - Achievement events
+  - Corporate events
+- Brand promise section
+- Contact section with WhatsApp, Instagram, email placeholders
+
+Important features:
+- Create smooth navigation between the two pages using menu links
+- Keep everything inside one HTML file using section IDs and simple navigation
+- Make it look like a real business website, not a generic template
+- Add subtle hover effects and smooth scrolling
+- Use sample placeholder text where needed
+- Use professional layout with clear hierarchy
+- Include footer with copyright text
+
+Content theme:
+This brand turns photos, achievements, and special moments into personalized artwork, gifts, and premium framed keepsakes for students, families, professionals, schools, colleges, startups, and corporate organizations.
+
+Make the final output polished, modern, and ready to edit easily.
