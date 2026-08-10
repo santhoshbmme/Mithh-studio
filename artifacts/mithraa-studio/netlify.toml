@@ -1,6 +1,7 @@
-﻿[build]
-  command   = "vite build --config vite.config.ts"
-  publish   = "dist/public"
+[build]
+  base    = "artifacts/mithraa-studio"
+  command = "npm install --legacy-peer-deps && vite build --config vite.config.ts"
+  publish = "artifacts/mithraa-studio/dist/public"
 
 [build.environment]
   PORT      = "8080"

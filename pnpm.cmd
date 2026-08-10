@@ -1,0 +1,1 @@
+@"C:\Users\DELL\AppData\Local\ms-playwright-go\1.57.0\node.exe" "c:\Antigravity\Mith  studio\package\bin\pnpm.cjs" %*
