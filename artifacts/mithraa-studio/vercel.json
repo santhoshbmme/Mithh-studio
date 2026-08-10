@@ -1,0 +1,12 @@
+﻿{
+  "buildCommand": "vite build --config vite.config.ts",
+  "outputDirectory": "dist/public",
+  "framework": "vite",
+  "env": {
+    "PORT": "8080",
+    "BASE_PATH": "/"
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
