@@ -1,6 +1,6 @@
 [build]
   base    = "artifacts/mithraa-studio"
-  command = "vite build --config vite.config.ts"
+  command = "pnpm run build"
   publish = "dist/public"
 
 [build.environment]
